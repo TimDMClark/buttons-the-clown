@@ -1,0 +1,49 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completions": [
+    {
+      "bookingId": "1",
+      "clownId": "1",
+      "date_created": "2023-03-29T15:42:19.995Z",
+      "id": 1
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "parentName": "Francine",
+      "childName": "Gretta",
+      "amountAttending": 12,
+      "address": "21 Jump Street",
+      "hoursNeeded": 2,
+      "neededBy": "2023-10-21"
+    },
+    {
+      "parentName": "Joanne",
+      "childName": "Greg",
+      "amountAttending": "10",
+      "address": "42 Smitten Way",
+      "hoursNeeded": "1",
+      "neededBy": "2023-09-22",
+      "id": 2
+    },
+    {
+      "parentName": "Franklin",
+      "childName": "Betty",
+      "amountAttending": "16",
+      "address": "307A Triple Avenue",
+      "hoursNeeded": "3",
+      "neededBy": "2023-10-01",
+      "id": 3
+    }
+  ]
+}
